@@ -40,7 +40,7 @@
                             <a href="/collections/all" title="">BẢNG GIÁ</a>
                         </li>
                         <li class=" color-2">
-                            <a href="/blogs/news" title="">BLOG</a>
+                            <a href="/blog.php" title="">BLOG</a>
                         </li>
                         <li class=" color-3">
                             <a href="/pages/documentation" title="">HƯỚNG DẪN MUA HÀNG</a>

@@ -176,7 +176,7 @@ a:hover, a:focus {color: #3f3e3e;}
 
 
 /* PRODUCT DESCRIPTION */
-.product_desc {font: 13px 'Open Sans', sans-serif;color: #898988;}
+.product_desc {font: 14px 'Open Sans', sans-serif;color: #898988;}
 
 
 /* PRODUCT PRICE */
@@ -845,7 +845,7 @@ display: none;
 
 
 
-.product_wrap .product_name {margin: -4px 0 0 0;font-size: 18px;}
+.product_wrap .product_name {margin: -4px 0 0 0;font-size: 20px;}
 
 .product_wrap .product-price {padding: 0;}
 .product_wrap .product-price .compare-at-price {margin: 0 0 0 7px !important;}
@@ -858,7 +858,7 @@ display: none;
 .product_wrap #purchase #quantity {width: 50px;height: 40px;display: inline-block;margin: 0 10px;padding: 0 10px;outline: none;text-align: center;}
 .product_wrap #purchase #add-to-cart {vertical-align: top;}
     
-.product_wrap .product_details {margin: 15px 0 0 0;padding: 10px 0 15px 0;border: 1px solid #d3d3d3;border-width: 1px 0;}
+.product_wrap .product_details {font-size:15px; margin: 15px 0 0 0;padding: 10px 0 15px 0;border: 1px solid #d3d3d3;border-width: 1px 0;}
 .product_wrap .product_details > div {padding: 5px 0 0 0;}
 
 .product_wrap #product_description {}
