@@ -19,7 +19,7 @@
 
                 <div class="product_links">
                     <button class="btn btn-cart" type="submit">3.750.000 VNĐ</button>
-                    <a class="btn" href="/product-detail.php">Xem thêm</a>
+                    <a class="btn" href="/product-detail.php">Chi tiết</a>
                 </div>
 
             </div>
@@ -38,7 +38,7 @@
 
                 <div class="product_links">
                     <button class="btn btn-cart" type="submit">$160.00</button>
-                    <a class="btn" href="/product-detail.php">Xem thêm</a>
+                    <a class="btn" href="/product-detail.php">Chi tiết</a>
                 </div>
 
             </div>
@@ -58,7 +58,7 @@
                 <div class="product_links">
                         <button class="btn btn-cart" type="submit">$780.00</button>
 
-                    <a class="btn" href="/product-detail.php">Xem thêm</a>
+                    <a class="btn" href="/product-detail.php">Chi tiết</a>
                 </div>
 
             </div>
@@ -79,7 +79,7 @@
 
                         <button class="btn btn-cart" type="submit">$1,100.00</button>
 
-                    <a class="btn" href="/product-detail.php">Xem thêm</a>
+                    <a class="btn" href="/product-detail.php">Chi tiết</a>
                 </div>
 
             </div>
@@ -100,7 +100,7 @@
 
                         <button class="btn btn-cart" type="submit">$600.00</button>
 
-                    <a class="btn" href="/product-detail.php">Xem thêm</a>
+                    <a class="btn" href="/product-detail.php">Chi tiết</a>
                 </div>
 
             </div>
@@ -121,7 +121,7 @@
 
                         <button class="btn btn-cart" type="submit">$450.00</button>
 
-                    <a class="btn" href="/product-detail.php">Xem thêm</a>
+                    <a class="btn" href="/product-detail.php">Chi tiết</a>
                 </div>
 
             </div>
@@ -142,7 +142,7 @@
 
                         <button class="btn btn-cart" type="submit">$320.00</button>
 
-                    <a class="btn" href="/product-detail.php">Xem thêm</a>
+                    <a class="btn" href="/product-detail.php">Chi tiết</a>
                 </div>
 
             </div>
@@ -163,7 +163,7 @@
 
                         <button class="btn btn-cart" type="submit">$265.00</button>
 
-                    <a class="btn" href="/product-detail.php">Xem thêm</a>
+                    <a class="btn" href="/product-detail.php">Chi tiết</a>
                 </div>
 
             </div>
@@ -184,7 +184,7 @@
 
                         <button class="btn btn-cart" type="submit">$199.00</button>
 
-                    <a class="btn" href="/product-detail.php">Xem thêm</a>
+                    <a class="btn" href="/product-detail.php">Chi tiết</a>
                 </div>
 
             </div>

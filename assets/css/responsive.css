@@ -67,7 +67,7 @@
 
 #logo {}
 #logo a i {font-size: 45px;}
-#logo a span {font-size: 39px;}
+#logo a span {font-size: 39px; margin-top: 20px}
 
 #navigation nav {width: 312px;}
 
@@ -92,8 +92,8 @@
 
 .widget__related-products .product_img a {width: 165px !important;}
 
-.column .product .product_img {width: 165px;float: none;margin: 0;}
-.column .product .product_img a {width: 165px;height: 165px;padding: 32px;}
+.column .product .product_img {width: 100%;float: none;margin: 0;}
+.column .product .product_img a {width: 100%;height: 165px;padding: 32px;}
 .column .product .product_name {padding: 15px 0 0 0;}
 
 }

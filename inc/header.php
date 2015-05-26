@@ -4,9 +4,8 @@
     <!-- LOGO -->
     <div id="logo">
         <a href="/">
-
-            <i class="fa fa-desktop"></i><span class="shop_name trs_hover">DUY TÂN COMPUTER</span>
-
+            <img src="/assets/images/logo.png"/>
+            <span class="shop_name trs_hover">DUY TÂN COMPUTER</span>
         </a>
     </div>
 

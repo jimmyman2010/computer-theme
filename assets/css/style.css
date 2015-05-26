@@ -12,12 +12,20 @@ audio:not([controls]) {display: none;height: 0;}
 [hidden], template {display: none;}
 html {font-family: sans-serif;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;}
 body {margin: 0;padding: 0;}
-a {background: transparent;}
+a {background: transparent;
+    -webkit-transition: color .3s, background-color .3s;
+    -moz-transition: color .3s, background-color .3s;
+    transition: color .3s, background-color .3s;
+}
 a:focus {outline: none;}
 a:active, a:hover {outline: 0;}
 abbr[title] {border-bottom: 1px dotted;}
 b, strong {font-weight: bold;}
-i, dfn {font-style: italic;}
+i, dfn {font-style: italic;
+    -webkit-transition: color .3s, background-color .3s;
+    -moz-transition: color .3s, background-color .3s;
+    transition: color .3s, background-color .3s;
+}
 hr {height: 0;-moz-box-sizing: content-box;box-sizing: content-box;}
 mark {background: #ff0;color: #000;}
 code, kbd, pre, samp {font-family: monospace, serif;font-size: 1em;}
@@ -44,7 +52,18 @@ table {border-collapse: collapse;border-spacing: 0;}
 ol, ul {list-style:none;}
 a, span {vertical-align:baseline;}
 
+@font-face {
+    font-family: 'allerregular';
+    src: url('../fonts/aller_rg-webfont.eot');
+    src: url('../fonts/aller_rg-webfont.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/aller_rg-webfont.woff2') format('woff2'),
+    url('../fonts/aller_rg-webfont.woff') format('woff'),
+    url('../fonts/aller_rg-webfont.ttf') format('truetype'),
+    url('../fonts/aller_rg-webfont.svg#allerregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
 
+}
 
 /* ************************************* GLOBAL THEME STYLES ************************************* */
 
@@ -233,14 +252,14 @@ background: linear-gradient(to bottom, #575656 0%,#3d3c3c 100%); /* W3C */
 }
 
 .gradient3 {
-background: #94c723; /* Old browsers */
+background: #4352ed; /* Old browsers */
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#94c723', endColorstr='#6f9f12',GradientType=0 ); /* IE6-8 */
-background: -webkit-linear-gradient(top, #94c723 0%,#6f9f12 100%); /* Chrome10+,Safari5.1+ */
-background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#94c723), color-stop(100%,#6f9f12)); /* Chrome,Safari4+ */
-background: -moz-linear-gradient(top, #94c723 0%, #6f9f12 100%); /* FF3.6+ */
-background: -ms-linear-gradient(top, #94c723 0%,#6f9f12 100%); /* IE10+ */
-background: -o-linear-gradient(top, #94c723 0%,#6f9f12 100%); /* Opera 11.10+ */
-background: linear-gradient(to bottom, #94c723 0%,#6f9f12 100%); /* W3C */
+background: -webkit-linear-gradient(top, #4352ed 0%, #1528cd 100%); /* Chrome10+,Safari5.1+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #4352ed), color-stop(100%, #1528cd)); /* Chrome,Safari4+ */
+background: -moz-linear-gradient(top, #4352ed 0%, #1528cd 100%); /* FF3.6+ */
+background: -ms-linear-gradient(top, #4352ed 0%, #1528cd 100%); /* IE10+ */
+background: -o-linear-gradient(top, #4352ed 0%, #1528cd 100%); /* Opera 11.10+ */
+background: linear-gradient(to bottom, #4352ed 0%, #1528cd 100%); /* W3C */
 }
 
 
@@ -410,8 +429,10 @@ background: linear-gradient(to bottom, #575656 0%,#3d3c3c 100%) !important; /* W
 #logo {float: left;padding: 44px 0 0 0;}
 #logo a {}
 #logo a i {margin: 0 6px 0 0;font-size: 56px;color: #8ec220;line-height: 1em;}
-#logo a span {font: bold 49px 'Open Sans', sans-serif;color: #444;line-height: 0.95em;letter-spacing: -2px;}
-#logo a:hover span {color: #8ec220;}
+#logo a span {font: bold 49px 'Open Sans', sans-serif;color: #444;line-height: 0.95em;letter-spacing: -2px;
+    display: inline-block; margin-top: 16px;
+}
+#logo a:hover span {/*color: #8ec220;*/ color: #3546F4}
 
 
 .header_menu {border: 1px solid #6f9f12;border-width: 1px 1px 1px 0;position: absolute;right: 0;top: 0;z-index: 10;
@@ -459,13 +480,13 @@ position: absolute;left: -15px;top: -1px;z-index: 1;
 .header_cart span {position: relative;z-index: 10;}
 
 .header_cart:hover,
-.header_cart:hover .header_menu_figure {background: #6f9f12;}
+.header_cart:hover .header_menu_figure {background: #1528cd;}
 
 
 .custom_header1 {float: right;padding: 57px 0 0 0;}
 .custom_header1 i {vertical-align: baseline;margin: 0 7px 0 0;font-size: 45px;color: #3f3e3e;position: relative;top: 2px;}
 .custom_header1 h3 {display: inline-block;vertical-align: baseline;font: normal 25px 'Open Sans', sans-serif;color: #8ec220;}
-.custom_header1 h4 {display: inline-block;vertical-align: baseline;font: normal 25px 'Open Sans', sans-serif;color: #3f3e3e;}
+.custom_header1 h4 {display: inline-block;vertical-align: baseline;letter-spacing:-3px; font: normal 38px 'allerregular', sans-serif;color: #3f3e3e;}
 
 
 #navigation {padding: 22px 0 0 0;}
@@ -528,7 +549,7 @@ background: linear-gradient(to bottom, #575656 0%,#3d3c3c 100%); /* W3C */
         border-radius: 3px;
 }
 .header_search #search-field {width: 100%;height: 39px;float: left;padding: 0 39px 0 10px;background: none;border: none;}
-.header_search #search-submit {width: 39px;height: 39px;float: left;margin: 0 0 0 -39px;padding: 0;background: none;border: none;font-size: 27px;color: #8ec220;text-align: center;}
+.header_search #search-submit {width: 39px;height: 39px;float: left;margin: 0 0 0 -39px;padding: 0;background: none;border: none;font-size: 27px;color: #3546F4;text-align: center;}
 .header_search #search-submit i {line-height: 32px;}
 .header_search #search-submit:hover {color: #3f3e3e;}
 
@@ -656,7 +677,7 @@ display: none;
 #bottom .custom_footer4 ul li {padding: 10px 0 0 0;font: normal 14px 'Open Sans', sans-serif;color: #666;}
 #bottom .custom_footer4 ul li a {color: #666}
 #bottom .custom_footer4 ul li a:hover {text-decoration: underline}
-#bottom .custom_footer4 ul li i {float:left;margin: 0 7px 0 0;font-size: 20px;color: #8ec220;line-height: 1.1em;
+#bottom .custom_footer4 ul li i {float:left;margin: 0 7px 0 0;font-size: 20px;color: #3546F4;line-height: 1.1em;
     width: 20px; text-align: center;
 }
 
@@ -743,11 +764,16 @@ display: none;
 -webkit-border-radius: 5px;
    -moz-border-radius: 5px;
         border-radius: 5px;
+    -webkit-transition: all .3s;
+    -moz-transition: all .3s;
+    transition: all .3s;
 }
-.widget__collections ul li a i {float: right;margin: 3px 0 0 0;font-size: 21px;color: #8ec220;}
+.widget__collections ul li a i {float: right;margin: 3px 0 0 0;font-size: 21px;color: #3546F4;}
 
 .widget__collections ul li a:hover,
 .widget__collections ul li.active a {background: #575656;border: 1px solid #3d3c3c;color: #ffffff;}
+.widget__collections ul li.active a i,
+.widget__collections ul li a:hover i {color: #8ec220}
 
 
 /* LINKS LIST */
