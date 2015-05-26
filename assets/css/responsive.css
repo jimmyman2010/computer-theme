@@ -70,7 +70,7 @@
 #logo a span {font-size: 39px; margin-top: 20px}
 
 #navigation nav {width: 312px;}
-
+    .custom_header1 h4{font-size: 32px}
 
 .nivo-caption {padding: 0 0 0 25px;}
 
@@ -111,6 +111,7 @@
 .column_center,
 #main_content {margin-left: 0 !important;margin-right: 0 !important;}
 
+    .custom_header1 h4{font-size: 38px}
 
 /* HEADER */
 #header {margin: 0;padding: 0;}
@@ -262,8 +263,19 @@
         position: absolute;
         bottom: 10px;
     }
+
+    #main_content .product .product_img a{
+        float: left;
+        margin-right: 10px;
+    }
 }
 
+@media (min-width: 768px) and (max-width: 780px) {
+    .container {
+        width: 730px;
+    }
+    .custom_header1 h4{font-size: 30px}
+}
 
 
 /* ************************************* < 340px ************************************* */

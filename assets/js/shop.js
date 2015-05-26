@@ -23,7 +23,9 @@ jQuery(function($){
       speed: 'fast' // faster animation speed
   });
 
-  $('.sf-menu').mobileMenu();
+  $('.sf-menu').mobileMenu({
+    defaultText: 'MENU'
+  });
 
   var ismobile = navigator.userAgent.match(/(iPhone)|(iPod)|(android)|(webOS)/i)
     if(ismobile){
