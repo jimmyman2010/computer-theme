@@ -63,7 +63,7 @@
             <!-- AddThis Button END -->
         </div>
         <p class="clearfix">
-            <span class="right"><a href="" title=""> Next Post &rarr;</a></span>
+            <span class="right"><a href="" title=""> Bài kế tiếp &rarr;</a></span>
         </p>
 
         <div id="disqus_thread"></div>

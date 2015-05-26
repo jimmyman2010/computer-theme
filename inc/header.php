@@ -33,16 +33,16 @@
                 <nav role="navigation">
                     <ul class="sf-menu visible-lg">
                         <li class=" first color-1">
-                            <a href="/pages/about-us" title="">GIỚI THIỆU</a>
+                            <a href="/page.php" title="">GIỚI THIỆU</a>
                         </li>
                         <li class=" color-2">
-                            <a href="/collections/all" title="">BẢNG GIÁ</a>
+                            <a href="/page.php" title="">BẢNG GIÁ</a>
                         </li>
                         <li class=" color-2">
                             <a href="/blog.php" title="">BLOG</a>
                         </li>
                         <li class=" color-3">
-                            <a href="/pages/documentation" title="">HƯỚNG DẪN MUA HÀNG</a>
+                            <a href="/page.php" title="">HƯỚNG DẪN MUA HÀNG</a>
                         </li>
                         <li class=" last color-4">
                             <a href="/contact.php" title="">LIÊN HỆ</a>

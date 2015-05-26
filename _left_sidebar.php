@@ -4,68 +4,23 @@
     <?php require_once('inc/product-type.php'); ?>
 
     <div class="widget widget__best-sellers">
-        <h3 class="widget_header gradient1">BÁN CHẠY</h3>
+        <h3 class="widget_header gradient1">TAG CLOUD</h3>
         <div class="widget_content">
             <div class="product-listing product-listing__bestsellers">
 
-                <div class="product">
-
-                    <div class="product_img">
-                        <a href="/products/apple-time-capsule-1-tb">
-                            <img src="uploads/apple_time_capsule_-_1_tb_1_small.jpeg?v=1388409150" alt="Apple Time Capsule - 1 TB" />
-                        </a>
-                    </div>
-
-                    <div class="product_name">
-                        <a href="/products/apple-time-capsule-1-tb">Apple Time Capsule - 1 TB</a>
-                    </div>
-
-                    <div class="product_price">
-
-                        <span class="money">$320.00</span>
-
-                    </div>
-
-                </div>
-
-                <div class="product">
-
-                    <div class="product_img">
-                        <a href="/products/apple-tv">
-                            <img src="uploads/apple_tv_1_small.jpeg?v=1388409153" alt="Apple TV" />
-                        </a>
-                    </div>
-
-                    <div class="product_name">
-                        <a href="/products/apple-tv">Apple TV</a>
-                    </div>
-
-                    <div class="product_price">
-
-                        <span class="money">$265.00</span>
-
-                    </div>
-
-                </div>
-
-                <div class="product">
-
-                    <div class="product_img">
-                        <a href="/products/apple-tv-3-0-with-blu-ray-and-hd-tuner">
-                            <img src="uploads/apple_tv_3-0_with_blu-ray_and_hd_tuner_1_small.jpeg?v=1388409157" alt="Apple TV 3.0 with Blu-ray and HD tuner" />
-                        </a>
-                    </div>
-
-                    <div class="product_name">
-                        <a href="/products/apple-tv-3-0-with-blu-ray-and-hd-tuner">Apple TV 3.0 with Blu-ray and HD tuner</a>
-                    </div>
-
-                    <div class="product_price">
-
-                        <span class="money">$450.00</span>
-
-                    </div>
-
+                <div class="tags" style="padding: 5px">
+                    <p>
+                        <span style="font-size: medium;">M</span><span style="font-size: medium;">áy bộ dell | &nbsp;
+                            <span style="font-size: x-large;">
+                                <span style="color: rgb(0, 128, 128);">máy bộ hp</span>
+                            </span><span style="color: rgb(0, 128, 128);">
+                                <span style="font-size: large;"> </span></span>
+                            <span style="font-size: large;">|&nbsp;</span>
+                            &nbsp;Máy tính để bàn | Dell Optiplex 780 |&nbsp;</span>
+                        <span style="font-size: x-large;">
+                            <span style="color: rgb(128, 128, 128);">máy bộ dell Optiplex 780</span>
+                        </span>
+                    </p>
                 </div>
 
             </div>

@@ -202,13 +202,18 @@ a:hover, a:focus {color: #3f3e3e;}
 .money {font: normal 17px 'Open Sans', sans-serif;color: #3f3e3e;}
 .compare-at-price {color: #999999;text-decoration: line-through;}
 
+.information{
+    margin-top: 30px;
+}
 
 /* RTE */
 .rte {margin-top: 15px;margin-bottom: 15px;color: inherit; font-size: 15px}
 
 .rte a {color: inherit;text-decoration: underline;}
 .rte a:hover {text-decoration: none;}
-
+.rte li{
+    margin: 5px 0;
+}
 .rte h1 {font-size: 19px;}
 .rte h2 {font-size: 17px;}
 .rte h3 {font-size: 16px;}
