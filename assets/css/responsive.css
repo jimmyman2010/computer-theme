@@ -121,9 +121,11 @@
         border-radius: 0;
 }
 
-.header_cart {float: left;padding: 0 5px;
+.header_cart {float: none;padding: 0 5px;
     font-size: 12px;
-    height: 34px;}
+    height: 34px;
+    text-align: center;
+}
 .header_cart .header_menu_figure {display: none;}
 
 .header_user {width: 40px;}
