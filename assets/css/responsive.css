@@ -113,15 +113,17 @@
 
 
 /* HEADER */
-#header {margin: 0 15px;padding: 0;}
+#header {margin: 0;padding: 0;}
 
 .header_menu {width: 100%;border-left-width: 1px;right: auto;left: 0;
--webkit-border-radius: 0 0 5px 5px;
-   -moz-border-radius: 0 0 5px 5px;
-        border-radius: 0 0 5px 5px;
+-webkit-border-radius: 0;
+   -moz-border-radius: 0;
+        border-radius: 0;
 }
 
-.header_cart {float: left;padding: 0 10px;}
+.header_cart {float: left;padding: 0 5px;
+    font-size: 12px;
+    height: 34px;}
 .header_cart .header_menu_figure {display: none;}
 
 .header_user {width: 40px;}
@@ -133,7 +135,7 @@
 .custom_header1 {width: 100%;clear: both;padding: 10px 0 0 0;text-align: center;}
 
 
-#navigation {}
+#navigation {padding-left: 15px; padding-right: 15px}
 #navigation .navigation_content {height: auto;padding: 7px;}
 #navigation nav {width: 100%;float: none;margin: 0;}
 
@@ -146,14 +148,14 @@
 
 
 /* SLIDER */
-.nivo-caption {display: none !important;}
+/*.nivo-caption {display: none !important;}*/
 
 
 /* MAIN PRODUCT LISTING */
 #main_content .product {overflow: hidden;margin: 0;padding: 15px 0 0 0 !important;}
 #main_content .product + .product {margin-top: 15px;border-top: 1px solid #d3d3d3;}
 
-#main_content .product .product_img {width: 120px;float: left;margin: 0 15px 0 0;}
+#main_content .product .product_img {/*width: 120px;*/float: left;margin: 0 15px 0 0;}
 #main_content .product .product_img a {}
 
 #main_content .product .product_name {margin: 0;padding: 0;}
@@ -213,6 +215,7 @@
 @media (max-width: 640px) {
 
 
+    #main_content .product .product_img{max-width: 50%}
 
 }
 
@@ -231,6 +234,32 @@
 .cart_buttons {text-align: center;}
 .cart_buttons span {display: block;padding: 5px 0;}
 
+    .nivoSlider{
+        height: 300px;
+        position: relative;
+    }
+    .nivo-caption{
+        bottom: 0;
+        width: 100%;
+        padding: 5px;
+    }
+    .nivo-caption h3{
+        line-height: 44px;
+        margin-top: 1px;
+        margin-bottom: 10px;
+    }
+    .nivo-caption-2 h3{
+        line-height: 60px;
+        margin-top: 10px;
+    }
+    .nivo-caption-3 h3{
+        line-height: 70px;
+        margin-top: 20px;
+    }
+    .nivo-caption > div{
+        position: absolute;
+        bottom: 10px;
+    }
 }
 
 
@@ -241,5 +270,10 @@
 
 .header_cart b,
 .header_cart span.cart-total-items {display: none;}
+    #main_content .product .product_img{
+        float: none;
+        margin: 0 0 10px;
+        max-width: inherit;
+    }
 
 }

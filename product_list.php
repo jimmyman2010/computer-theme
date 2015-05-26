@@ -69,7 +69,7 @@
 
 <div id="wrapper">
 
-<?php require_once('inc/header.php'); ?>
+    <?php require_once('inc/header.php'); ?>
 
     <!-- MAIN CONTENT -->
     <div id="main" role="main">
@@ -79,9 +79,10 @@
 
                 <div class="column_center">
                     <div id="main_content" class="col-sm-9">
-                        <?php require_once('inc/slider.php'); ?>
 
-                        <?php require_once('inc/list.php'); ?>
+                        <?php require_once('inc/breadcrumb.php'); ?>
+
+                        <?php require_once('inc/list-pagination.php'); ?>
 
                     </div>
                 </div>

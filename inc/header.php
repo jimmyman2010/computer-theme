@@ -27,11 +27,6 @@
 
     <div class="clearfix"></div>
 
-
-
-
-
-
     <!-- NAVIGATION -->
     <div id="navigation" class="row">
         <div class="col-sm-9 col-sm-offset-3">
@@ -51,13 +46,13 @@
                             <a href="/pages/documentation" title="">HƯỚNG DẪN MUA HÀNG</a>
                         </li>
                         <li class=" last color-4">
-                            <a href="/pages/contacts" title="">LIÊN HỆ</a>
+                            <a href="/contact.php" title="">LIÊN HỆ</a>
                         </li>
                     </ul>
                 </nav>
                 <!-- HEADER SEARCH -->
                 <div class="header_search">
-                    <form action="/search" method="get" class="search-form" role="search">
+                    <form action="/search.php" method="get" class="search-form" role="search">
                         <input id="search-field" name="q" type="text" placeholder="Tìm kiếm" class="hint form-control" />
                         <button id="search-submit" type="submit"><i class="fa fa-search"></i></button>
                     </form>

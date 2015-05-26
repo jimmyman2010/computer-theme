@@ -69,7 +69,7 @@
 
 <div id="wrapper">
 
-<?php require_once('inc/header.php'); ?>
+    <?php require_once('inc/header.php'); ?>
 
     <!-- MAIN CONTENT -->
     <div id="main" role="main">
@@ -79,9 +79,42 @@
 
                 <div class="column_center">
                     <div id="main_content" class="col-sm-9">
-                        <?php require_once('inc/slider.php'); ?>
 
-                        <?php require_once('inc/list.php'); ?>
+                        <?php require_once('inc/breadcrumb.php'); ?>
+
+                        <!-- SLIDER -->
+                        <div class="contact-scope">
+                            <h1 class="page_heading">Contacts</h1>
+                            <iframe src="http://maps.google.com/?ie=UTF8&amp;t=m&amp;ll=40.576559,-73.973501&amp;spn=0.005835,0.024183&amp;z=16&amp;output=embed" height="340" width="320"></iframe>
+                            <form accept-charset="UTF-8" action="/contact" class="contact-form" method="post"><input name="form_type" type="hidden" value="contact" /><input name="utf8" type="hidden" value="✓" />
+                                <div id="contactFormWrapper">
+                                    <div class="row">
+                                        <div class="col-sm-4 form-group">
+                                            <label class="sr-only">Your Name:</label>
+                                            <input type="text" class="form-control" id="contactFormName" name="contact[name]" placeholder="Your name..." />
+                                        </div>
+                                        <div class="col-sm-4 form-group">
+                                            <label class="sr-only">Email:</label>
+                                            <input type="email" class="form-control" id="contactFormEmail" name="contact[email]" placeholder="Your email..." />
+                                        </div>
+                                        <div class="col-sm-4 form-group">
+                                            <label class="sr-only">Phone Number:</label>
+                                            <input type="telephone" class="form-control" id="contactFormTelephone" name="contact[phone]" placeholder="Your phone number..." />
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-sm-12 form-group">
+                                            <label class="sr-only">Message:</label>
+                                            <textarea class="form-control" rows="5" cols="75" id="contactFormMessage" name="contact[body]" placeholder="Your Message..."></textarea>
+                                        </div>
+                                    </div>
+                                    <div class="btn-toolbar form-group">
+                                        <input type="submit" id="contactFormSubmit" value="Send" class="btn btn-primary" />
+                                        <input type="reset" value="Clear" class="btn btn-info">
+                                    </div>
+                                </div><!-- contactFormWrapper -->
+                            </form>
+                        </div>
 
                     </div>
                 </div>

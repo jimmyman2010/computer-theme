@@ -33,8 +33,8 @@
     <div id="htmlcaption-1">
         <div class="nivo-caption-1">
             <a href="/collections/all">
-                <h2>Call us</h2>
-                <h3>hot line:</h3>
+                <h2>gọi ngay</h2>
+                <h3>ĐƯỜNG DÂY NÓNG:</h3>
                 <h4>0983 176 671</h4>
                 <p>Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.</p>
             </a>
@@ -44,8 +44,8 @@
     <div id="htmlcaption-2">
         <div class="nivo-caption-2">
             <a href="/collections/fans-cooling">
-                <h2>Free</h2>
-                <h3>Shipping</h3>
+                <h2>miễn phí</h2>
+                <h3>VẬN CHUYỂN</h3>
                 <h4></h4>
                 <p>Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.</p>
             </a>
@@ -55,7 +55,7 @@
     <div id="htmlcaption-3">
         <div class="nivo-caption-3">
             <a href="/collections/cd-dvd-drives">
-                <h2>sale</h2>
+                <h2>giảm giá lên tới</h2>
                 <h3>-50</h3>
                 <h4>%</h4>
                 <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt</p>
