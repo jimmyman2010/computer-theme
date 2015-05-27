@@ -1,5 +1,21 @@
 jQuery(function($){
 
+    $('.has-sub-menu').on('mouseenter', function(){
+        $(this).addClass('hover');
+        $(this).find('> a > i').removeClass('fa-chevron-circle-down').addClass('fa-chevron-circle-up');
+    });
+    $('.has-sub-menu > a > i').on('click', function(e){
+        e.preventDefault();
+        var li = $(this).parent().parent();
+        if(li.hasClass('hover')) {
+            li.removeClass('hover');
+            $(this).removeClass('fa-chevron-circle-up').addClass('fa-chevron-circle-down');
+        }
+        else {
+            li.addClass('hover');
+            $(this).removeClass('fa-chevron-circle-down').addClass('fa-chevron-circle-up');
+        }
+    });
   $('html').removeClass('no-js'); 
   
   $('ul.styles > li').click(function(){

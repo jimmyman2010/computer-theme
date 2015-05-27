@@ -1,7 +1,10 @@
 <div class="column_left column col-sm-3">
 
-    <?php require_once('inc/left-menu.php'); ?>
-    <?php require_once('inc/product-type.php'); ?>
+<!--    --><?php //require_once('inc/left-menu.php'); ?>
+<!--    --><?php //require_once('inc/product-type.php'); ?>
+
+    <?php require_once('inc/left-menu-2.php'); ?>
+    <?php require_once('inc/support.php'); ?>
 
     <div class="widget widget__best-sellers">
         <h3 class="widget_header gradient1">TAG CLOUD</h3>
