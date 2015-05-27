@@ -1,9 +1,9 @@
 /* ************************************* 1200px  ************************************* */
 
 .top-fix{ position: fixed; background: #444; width: 100%; z-index: 999;
-    -webkit-box-shadow: 0 0 5px rgba(249,249,249,.8);
-    -moz-box-shadow: 0 0 5px rgba(249,249,249,.8);
-    box-shadow: 0 0 5px rgba(249,249,249,.8);
+    -webkit-box-shadow: 0 0 5px rgba(49,49,49,.7);
+    -moz-box-shadow: 0 0 5px rgba(49,49,49,.7);
+    box-shadow: 0 0 5px rgba(49,49,49,.7);
     top: -90px;
     -webkit-transition: top 0.5s ease-in-out;
     -moz-transition: top 0.5s ease-in-out;
@@ -328,5 +328,6 @@
         margin: 0 0 10px;
         max-width: inherit;
     }
+    span.city{display: none}
 
 }
