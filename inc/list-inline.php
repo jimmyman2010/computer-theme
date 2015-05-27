@@ -16,13 +16,13 @@
 
         <li class="search-result">
             <div class="product_name">
-                <a href="/products/apple-g5-powermac-2ghz-desktop-computer" title="">Apple G5 PowerMac 2GHz Desktop Computer</a>
+                <a href="product-detail.php" title="">Apple G5 PowerMac 2GHz Desktop Computer</a>
             </div>
             <div class="search-result_container">
 
                 <div class="search-result_image pull-left">
-                    <a href="/products/apple-g5-powermac-2ghz-desktop-computer" title="Apple G5 PowerMac 2GHz Desktop Computer">
-                        <img src="//cdn.shopify.com/s/files/1/0328/3937/products/apple_g5_powermac_2ghz_desktop_computer_1_small.jpeg?v=1388409089" alt="Apple G5 PowerMac 2GHz Desktop Computer" />
+                    <a href="product-detail.php" title="Apple G5 PowerMac 2GHz Desktop Computer">
+                        <img src="uploads/apple_g5_powermac_2ghz_desktop_computer_1_small.jpeg?v=1388409089" alt="Apple G5 PowerMac 2GHz Desktop Computer" />
                     </a>
                 </div>
 
@@ -32,13 +32,13 @@
 
         <li class="search-result">
             <div class="product_name">
-                <a href="/products/apple-macbook-pro-13-2-7ghz-i7" title="">Apple MacBook Pro (13'' 2.7GHz i7)</a>
+                <a href="product-detail.php" title="">Apple MacBook Pro (13'' 2.7GHz i7)</a>
             </div>
             <div class="search-result_container">
 
                 <div class="search-result_image pull-left">
-                    <a href="/products/apple-macbook-pro-13-2-7ghz-i7" title="Apple MacBook Pro (13&#39;&#39; 2.7GHz i7)">
-                        <img src="//cdn.shopify.com/s/files/1/0328/3937/products/apple_macbook_pro_13_2-7ghz_i7_1_small.jpeg?v=1388409139" alt="Apple MacBook Pro (13&#39;&#39; 2.7GHz i7)" />
+                    <a href="product-detail.php" title="Apple MacBook Pro (13&#39;&#39; 2.7GHz i7)">
+                        <img src="uploads/apple_macbook_pro_13_2-7ghz_i7_1_small.jpeg?v=1388409139" alt="Apple MacBook Pro (13&#39;&#39; 2.7GHz i7)" />
                     </a>
                 </div>
 
@@ -48,13 +48,13 @@
 
         <li class="search-result">
             <div class="product_name">
-                <a href="/products/apple-power-mac-g5-desktop" title="">Apple Power Mac G5 Desktop</a>
+                <a href="product-detail.php" title="">Apple Power Mac G5 Desktop</a>
             </div>
             <div class="search-result_container">
 
                 <div class="search-result_image pull-left">
-                    <a href="/products/apple-power-mac-g5-desktop" title="Apple Power Mac G5 Desktop">
-                        <img src="//cdn.shopify.com/s/files/1/0328/3937/products/apple_power_mac_g5_desktop_1_small.jpeg?v=1388409146" alt="Apple Power Mac G5 Desktop" />
+                    <a href="product-detail.php" title="Apple Power Mac G5 Desktop">
+                        <img src="uploads/apple_power_mac_g5_desktop_1_small.jpeg?v=1388409146" alt="Apple Power Mac G5 Desktop" />
                     </a>
                 </div>
 
@@ -64,13 +64,13 @@
 
         <li class="search-result">
             <div class="product_name">
-                <a href="/products/apple-tv" title="">Apple TV</a>
+                <a href="product-detail.php" title="">Apple TV</a>
             </div>
             <div class="search-result_container">
 
                 <div class="search-result_image pull-left">
-                    <a href="/products/apple-tv" title="Apple TV">
-                        <img src="//cdn.shopify.com/s/files/1/0328/3937/products/apple_tv_1_small.jpeg?v=1388409153" alt="Apple TV" />
+                    <a href="product-detail.php" title="Apple TV">
+                        <img src="uploads/apple_tv_1_small.jpeg?v=1388409153" alt="Apple TV" />
                     </a>
                 </div>
 
@@ -80,13 +80,13 @@
 
         <li class="search-result">
             <div class="product_name">
-                <a href="/products/apple-tv-3-0-with-blu-ray-and-hd-tuner" title="">Apple TV 3.0 with Blu-ray and HD tuner</a>
+                <a href="product-detail.php" title="">Apple TV 3.0 with Blu-ray and HD tuner</a>
             </div>
             <div class="search-result_container">
 
                 <div class="search-result_image pull-left">
-                    <a href="/products/apple-tv-3-0-with-blu-ray-and-hd-tuner" title="Apple TV 3.0 with Blu-ray and HD tuner">
-                        <img src="//cdn.shopify.com/s/files/1/0328/3937/products/apple_tv_3-0_with_blu-ray_and_hd_tuner_1_small.jpeg?v=1388409157" alt="Apple TV 3.0 with Blu-ray and HD tuner" />
+                    <a href="product-detail.php" title="Apple TV 3.0 with Blu-ray and HD tuner">
+                        <img src="uploads/apple_tv_3-0_with_blu-ray_and_hd_tuner_1_small.jpeg?v=1388409157" alt="Apple TV 3.0 with Blu-ray and HD tuner" />
                     </a>
                 </div>
 
@@ -96,13 +96,13 @@
 
         <li class="search-result">
             <div class="product_name">
-                <a href="/products/apple-time-capsule-1-tb" title="">Apple Time Capsule - 1 TB</a>
+                <a href="product-detail.php" title="">Apple Time Capsule - 1 TB</a>
             </div>
             <div class="search-result_container">
 
                 <div class="search-result_image pull-left">
-                    <a href="/products/apple-time-capsule-1-tb" title="Apple Time Capsule - 1 TB">
-                        <img src="//cdn.shopify.com/s/files/1/0328/3937/products/apple_time_capsule_-_1_tb_1_small.jpeg?v=1388409150" alt="Apple Time Capsule - 1 TB" />
+                    <a href="product-detail.php" title="Apple Time Capsule - 1 TB">
+                        <img src="uploads/apple_time_capsule_-_1_tb_1_small.jpeg?v=1388409150" alt="Apple Time Capsule - 1 TB" />
                     </a>
                 </div>
 
@@ -112,13 +112,13 @@
 
         <li class="search-result">
             <div class="product_name">
-                <a href="/products/apple-wireless-keyboard-mc184" title="">Apple Wireless Keyboard MC184</a>
+                <a href="product-detail.php" title="">Apple Wireless Keyboard MC184</a>
             </div>
             <div class="search-result_container">
 
                 <div class="search-result_image pull-left">
-                    <a href="/products/apple-wireless-keyboard-mc184" title="Apple Wireless Keyboard MC184">
-                        <img src="//cdn.shopify.com/s/files/1/0328/3937/products/apple_wireless_keyboard_mc184_1_small.jpeg?v=1388409161" alt="Apple Wireless Keyboard MC184" />
+                    <a href="product-detail.php" title="Apple Wireless Keyboard MC184">
+                        <img src="uploads/apple_wireless_keyboard_mc184_1_small.jpeg?v=1388409161" alt="Apple Wireless Keyboard MC184" />
                     </a>
                 </div>
 
@@ -128,13 +128,13 @@
 
         <li class="search-result">
             <div class="product_name">
-                <a href="/products/apple-ipad-2-16gb-wi-fi" title="">Apple iPad 2 (16GB Wi-Fi</a>
+                <a href="product-detail.php" title="">Apple iPad 2 (16GB Wi-Fi</a>
             </div>
             <div class="search-result_container">
 
                 <div class="search-result_image pull-left">
-                    <a href="/products/apple-ipad-2-16gb-wi-fi" title="Apple iPad 2 (16GB Wi-Fi">
-                        <img src="//cdn.shopify.com/s/files/1/0328/3937/products/apple_ipad_2_16gb_wi-fi_black_1_small.jpeg?v=1388409097" alt="Apple iPad 2 (16GB Wi-Fi" />
+                    <a href="product-detail.php" title="Apple iPad 2 (16GB Wi-Fi">
+                        <img src="uploads/apple_ipad_2_16gb_wi-fi_black_1_small.jpeg?v=1388409097" alt="Apple iPad 2 (16GB Wi-Fi" />
                     </a>
                 </div>
 
@@ -144,13 +144,13 @@
 
         <li class="search-result">
             <div class="product_name">
-                <a href="/products/apple-magic-mouse" title="">Apple magic-mouse</a>
+                <a href="product-detail.php" title="">Apple magic-mouse</a>
             </div>
             <div class="search-result_container">
 
                 <div class="search-result_image pull-left">
-                    <a href="/products/apple-magic-mouse" title="Apple magic-mouse">
-                        <img src="//cdn.shopify.com/s/files/1/0328/3937/products/apple_magic-mouse_1_small.jpeg?v=1388409142" alt="Apple magic-mouse" />
+                    <a href="product-detail.php" title="Apple magic-mouse">
+                        <img src="uploads/apple_magic-mouse_1_small.jpeg?v=1388409142" alt="Apple magic-mouse" />
                     </a>
                 </div>
 
@@ -160,7 +160,7 @@
 
         <li class="search-result">
             <div class="product_name">
-                <a href="/blogs/news/11134181-tempora-quae-dolor-cumque-nemo-libero" title="">Tempora quae dolor cumque nemo libero</a>
+                <a href="blog-detail.php" title="">Tempora quae dolor cumque nemo libero</a>
             </div>
             <div class="search-result_container">
 

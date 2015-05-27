@@ -2,7 +2,7 @@
 <div itemscope itemtype="http://schema.org/Product" class="product-scope">
 
     <meta itemprop="url" content="http://mantrantd.com" />
-    <meta itemprop="image" content="/uploads/apple_g5_powermac_2ghz_desktop_computer_1_grande.jpeg?v=1388409089" />
+    <meta itemprop="image" content="uploads/apple_g5_powermac_2ghz_desktop_computer_1_grande.jpeg?v=1388409089" />
 
     <div class="product_wrap">
         <div class="row">
@@ -11,16 +11,18 @@
                 <div class="product_image">
                     <ul class="bxslider">
                         <li>
-                            <a rel="product_images" class="fancybox" href="/uploads/apple_g5_powermac_2ghz_desktop_computer_1.jpeg?v=1388409089" title="Apple G5 PowerMac 2GHz Desktop Computer">
-                                <img src="/uploads/apple_g5_powermac_2ghz_desktop_computer_1_large.jpeg?v=1388409089" alt="Apple G5 PowerMac 2GHz Desktop Computer"/></a>
+                            <a rel="product_images" class="fancybox" href="uploads/apple_g5_powermac_2ghz_desktop_computer_1.jpeg?v=1388409089" title="Apple G5 PowerMac 2GHz Desktop Computer">
+                                <img src="uploads/apple_g5_powermac_2ghz_desktop_computer_1_large.jpeg?v=1388409089" alt="Apple G5 PowerMac 2GHz Desktop Computer"/></a>
                         </li>
 
                         <li>
-                            <a rel="product_images" class="fancybox" href="/uploads/apple_g5_powermac_2ghz_desktop_computer_2.jpeg?v=1388409089" title="Apple G5 PowerMac 2GHz Desktop Computer"><img src="/uploads/apple_g5_powermac_2ghz_desktop_computer_2_large.jpeg?v=1388409089" alt="Apple G5 PowerMac 2GHz Desktop Computer"/></a>
+                            <a rel="product_images" class="fancybox" href="uploads/apple_g5_powermac_2ghz_desktop_computer_2.jpeg?v=1388409089" title="Apple G5 PowerMac 2GHz Desktop Computer">
+                                <img src="uploads/apple_g5_powermac_2ghz_desktop_computer_2_large.jpeg?v=1388409089" alt="Apple G5 PowerMac 2GHz Desktop Computer"/></a>
                         </li>
 
                         <li>
-                            <a rel="product_images" class="fancybox" href="/uploads/apple_g5_powermac_2ghz_desktop_computer_3.jpeg?v=1388409089" title="Apple G5 PowerMac 2GHz Desktop Computer"><img src="/uploads/apple_g5_powermac_2ghz_desktop_computer_3_large.jpeg?v=1388409089" alt="Apple G5 PowerMac 2GHz Desktop Computer"/></a>
+                            <a rel="product_images" class="fancybox" href="uploads/apple_g5_powermac_2ghz_desktop_computer_3.jpeg?v=1388409089" title="Apple G5 PowerMac 2GHz Desktop Computer">
+                                <img src="uploads/apple_g5_powermac_2ghz_desktop_computer_3_large.jpeg?v=1388409089" alt="Apple G5 PowerMac 2GHz Desktop Computer"/></a>
                         </li>
 
                     </ul>
@@ -28,15 +30,15 @@
 
                 <div id="bx-pager" class="product_image-additioanl">
                     <a href='' data-slide-index="0">
-                        <img src="/uploads/apple_g5_powermac_2ghz_desktop_computer_1_compact.jpeg?v=1388409089" alt="Apple G5 PowerMac 2GHz Desktop Computer"/>
+                        <img src="uploads/apple_g5_powermac_2ghz_desktop_computer_1_compact.jpeg?v=1388409089" alt="Apple G5 PowerMac 2GHz Desktop Computer"/>
                     </a>
 
                     <a href='' data-slide-index="1">
-                        <img src="/uploads/apple_g5_powermac_2ghz_desktop_computer_2_compact.jpeg?v=1388409089" alt="Apple G5 PowerMac 2GHz Desktop Computer"/>
+                        <img src="uploads/apple_g5_powermac_2ghz_desktop_computer_2_compact.jpeg?v=1388409089" alt="Apple G5 PowerMac 2GHz Desktop Computer"/>
                     </a>
 
                     <a href='' data-slide-index="2">
-                        <img src="/uploads/apple_g5_powermac_2ghz_desktop_computer_3_compact.jpeg?v=1388409089" alt="Apple G5 PowerMac 2GHz Desktop Computer"/>
+                        <img src=uploads/apple_g5_powermac_2ghz_desktop_computer_3_compact.jpeg?v=1388409089" alt="Apple G5 PowerMac 2GHz Desktop Computer"/>
                     </a>
 
                 </div>
@@ -95,7 +97,7 @@
                 <div class="span12">
                     <div class="pagination pagination__product">
                         <ul>
-                            <li class="right-arrow"><span class="right"><a href="/collections/accessories/products/viewsonic-vx1962wm-19-inch-lcd-monitor#content" title="">Sản phẩm khác &rarr;</a></span></li>
+                            <li class="right-arrow"><span class="right"><a href="product-detail.php#content" title="">Sản phẩm khác &rarr;</a></span></li>
                         </ul>
                     </div>
 
@@ -162,34 +164,34 @@
             <ul class="product-listing product-listing__related">
                 <li class="product col-sm-4 columns-3 item_alpha">
                     <div class="product_img">
-                        <a href="/collections/accessories/products/viewsonic-vx1962wm-19-inch-lcd-monitor" title="ViewSonic VX1962wm 19-Inch LCD Monitor">
-                            <img src="/uploads/viewsonic_vx1962wm_19-inch_lcd_monitor_1_medium.jpeg?v=1388409093" alt="" />
+                        <a href="product-detail.php" title="ViewSonic VX1962wm 19-Inch LCD Monitor">
+                            <img src="uploads/viewsonic_vx1962wm_19-inch_lcd_monitor_1_medium.jpeg?v=1388409093" alt="" />
                         </a>
                     </div>
                     <div class="product_name">
-                        <a href="/products/viewsonic-vx1962wm-19-inch-lcd-monitor" title="ViewSonic VX1962wm 19-Inch LCD Monitor">ViewSonic VX1962wm 19-Inch LCD Monitor</a>
+                        <a href="product-detail.php" title="ViewSonic VX1962wm 19-Inch LCD Monitor">ViewSonic VX1962wm 19-Inch LCD Monitor</a>
                     </div>
                     <div class="product_price"><span class="money">$160.00</span></div>
                 </li>
                 <li class="product col-sm-4 columns-3 ">
                     <div class="product_img">
-                        <a href="/collections/accessories/products/apple-ipad-2-16gb-wi-fi" title="Apple iPad 2 (16GB Wi-Fi">
-                            <img src="/uploads/apple_ipad_2_16gb_wi-fi_black_1_medium.jpeg?v=1388409097" alt="" />
+                        <a href="product-detail.php" title="Apple iPad 2 (16GB Wi-Fi">
+                            <img src="uploads/apple_ipad_2_16gb_wi-fi_black_1_medium.jpeg?v=1388409097" alt="" />
                         </a>
                     </div>
                     <div class="product_name">
-                        <a href="/products/apple-ipad-2-16gb-wi-fi" title="Apple iPad 2 (16GB Wi-Fi">Apple iPad 2 (16GB Wi-Fi</a>
+                        <a href="product-detail.php" title="Apple iPad 2 (16GB Wi-Fi">Apple iPad 2 (16GB Wi-Fi</a>
                     </div>
                     <div class="product_price"><span class="money">$780.00</span></div>
                 </li>
                 <li class="product col-sm-4 columns-3 item_omega">
                     <div class="product_img">
-                        <a href="/collections/accessories/products/nas-qnap-ts-219p" title="NAS Qnap TS-219P">
-                            <img src="/uploads/nas_qnap_ts-219p_1_medium.jpeg?v=1388409103" alt="" />
+                        <a href="product-detail.php" title="NAS Qnap TS-219P">
+                            <img src="uploads/nas_qnap_ts-219p_1_medium.jpeg?v=1388409103" alt="" />
                         </a>
                     </div>
                     <div class="product_name">
-                        <a href="/products/nas-qnap-ts-219p" title="NAS Qnap TS-219P">NAS Qnap TS-219P</a>
+                        <a href="product-detail.php" title="NAS Qnap TS-219P">NAS Qnap TS-219P</a>
                     </div>
                     <div class="product_price"><span class="money">$1,100.00</span></div>
                 </li>

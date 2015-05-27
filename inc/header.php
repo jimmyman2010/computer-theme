@@ -4,7 +4,7 @@
     <!-- LOGO -->
     <div id="logo">
         <a href="/">
-            <img src="/assets/images/logo.png"/>
+            <img src="assets/images/logo.png"/>
             <span class="shop_name trs_hover">DUY TÂN COMPUTER</span>
         </a>
     </div>
@@ -33,25 +33,25 @@
                 <nav role="navigation">
                     <ul class="sf-menu visible-lg">
                         <li class=" first color-1">
-                            <a href="/page.php" title="">GIỚI THIỆU</a>
+                            <a href="page.php" title="">GIỚI THIỆU</a>
                         </li>
                         <li class=" color-2">
-                            <a href="/page.php" title="">BẢNG GIÁ</a>
+                            <a href="page.php" title="">BẢNG GIÁ</a>
                         </li>
                         <li class=" color-2">
-                            <a href="/blog.php" title="">BLOG</a>
+                            <a href="blog.php" title="">BLOG</a>
                         </li>
                         <li class=" color-3">
-                            <a href="/page.php" title="">HƯỚNG DẪN MUA HÀNG</a>
+                            <a href="page.php" title="">HƯỚNG DẪN MUA HÀNG</a>
                         </li>
                         <li class=" last color-4">
-                            <a href="/contact.php" title="">LIÊN HỆ</a>
+                            <a href="contact.php" title="">LIÊN HỆ</a>
                         </li>
                     </ul>
                 </nav>
                 <!-- HEADER SEARCH -->
                 <div class="header_search">
-                    <form action="/search.php" method="get" class="search-form" role="search">
+                    <form action="search.php" method="get" class="search-form" role="search">
                         <input id="search-field" name="q" type="text" placeholder="Tìm kiếm" class="hint form-control" />
                         <button id="search-submit" type="submit"><i class="fa fa-search"></i></button>
                     </form>

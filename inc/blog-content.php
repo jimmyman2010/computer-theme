@@ -39,7 +39,7 @@
             </div>
 
             <div class="rte">
-                <p style="text-align: left;"><img style="margin-right: 15px;" src="https://cdn.shopify.com/s/files/1/0328/3937/products/acer_as5738z-4333_15-6-inch_laptop_1_compact.jpeg?v=1388409135" /><img style="margin-right: 15px;" src="//cdn.shopify.com/s/files/1/0328/3937/products/apple_macbook_pro_13_2-7ghz_i7_1_compact.jpeg?v=1388409139" /><img style="margin-right: 15px;" src="//cdn.shopify.com/s/files/1/0328/3937/products/dell_inspiron_1520_3_compact.jpeg?v=1388409117" /></p>
+                <p style="text-align: left;"><img style="margin-right: 15px;" src="uploads/acer_as5738z-4333_15-6-inch_laptop_1_compact.jpeg?v=1388409135" /><img style="margin-right: 15px;" src="//cdn.shopify.com/s/files/1/0328/3937/products/apple_macbook_pro_13_2-7ghz_i7_1_compact.jpeg?v=1388409139" /><img style="margin-right: 15px;" src="//cdn.shopify.com/s/files/1/0328/3937/products/dell_inspiron_1520_3_compact.jpeg?v=1388409117" /></p>
                 <p>Provident vitae corrupti culpa ullam quis facere veritatis adipisci aliquid vero esse in illo aliquam repellat aperiam repudiandae neque possimus fuga odit libero incidunt qui. Labore, unde, modi, nam, quasi cumque repudiandae voluptatibus numquam quas harum sequi vero facere iure dolorum facilis consequuntur nihil maxime accusantium voluptatem! Eos, quam dolores fugit nam quos amet eveniet error debitis nostrum in ipsa dolorem dicta sequi nemo libero alias fugiat beatae consequatur deleniti natus eligendi vel laborum pariatur officia nesciunt ullam dignissimos.</p>
                 <ol>
                     <li>In beatae provident totam architecto assumenda officia laborum</li>

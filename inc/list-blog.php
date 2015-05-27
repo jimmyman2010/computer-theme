@@ -17,12 +17,12 @@
 
 
                 <div class="blog-article_meta-comments">
-                    <a href="/blog-detail.php#comments">0 comments</a>
+                    <a href="blog-detail.php#comments">0 comments</a>
                 </div>
 
 
                 <div class="product_name">
-                    <a href="/blog-detail.php">Repellendus consequuntur aut ullam</a>
+                    <a href="blog-detail.php">Repellendus consequuntur aut ullam</a>
                 </div>
 
                 <div class="blog-article_date">
@@ -49,15 +49,15 @@
             <div class="rte">
 
                 <p style="text-align: left;">
-                    <img style="margin-right: 15px;" src="/uploads/acer_as5738z-4333_15-6-inch_laptop_1_compact.jpeg?v=1388409135" />
-                    <img style="margin-right: 15px;" src="/uploads/apple_macbook_pro_13_2-7ghz_i7_1_compact.jpeg?v=1388409139" />
-                    <img style="margin-right: 15px;" src="/uploads/dell_inspiron_1520_3_compact.jpeg?v=1388409117" />
+                    <img style="margin-right: 15px;" src="uploads/acer_as5738z-4333_15-6-inch_laptop_1_compact.jpeg?v=1388409135" />
+                    <img style="margin-right: 15px;" src="uploads/apple_macbook_pro_13_2-7ghz_i7_1_compact.jpeg?v=1388409139" />
+                    <img style="margin-right: 15px;" src="uploads/dell_inspiron_1520_3_compact.jpeg?v=1388409117" />
                 </p>
                 Provident vitae corrupti culpa ullam quis facere veritatis adipisci aliquid vero esse in illo aliquam repellat aperiam repudiandae neque possimus fuga odit libero incidunt qui. Labore, unde, modi, nam, quasi cumque repudiandae voluptatibus numquam quas harum sequi vero facere iure...
 
             </div>
 
-            <a class="blog-article_read-more btn btn-info" href="/blog-detail.php">Xem thêm</a>
+            <a class="blog-article_read-more btn btn-info" href="blog-detail.php">Xem thêm</a>
 
         </div>
 
@@ -67,12 +67,12 @@
 
 
                 <div class="blog-article_meta-comments">
-                    <a href="/blog-detail.php#comments">0 comments</a>
+                    <a href="blog-detail.php#comments">0 comments</a>
                 </div>
 
 
                 <div class="product_name">
-                    <a href="/blog-detail.php">Harum, at sequi impedit</a>
+                    <a href="blog-detail.php">Harum, at sequi impedit</a>
                 </div>
 
                 <div class="blog-article_date">
@@ -97,8 +97,8 @@
             <div class="rte">
 
                 <p style="text-align: left;">
-                    <img style="margin-right: 15px;" src="/uploads/apple_power_mac_g5_desktop_1_compact.jpeg?v=1388409146" />
-                    <img style="margin-right: 15px;" src="/uploads/nas_qnap_ts-219p_1_compact.jpeg?v=1388409103" />
+                    <img style="margin-right: 15px;" src="uploads/apple_power_mac_g5_desktop_1_compact.jpeg?v=1388409146" />
+                    <img style="margin-right: 15px;" src="uploads/nas_qnap_ts-219p_1_compact.jpeg?v=1388409103" />
                     <img src="/uploads/apple_g5_powermac_2ghz_desktop_computer_1_compact.jpeg?v=1388409089" />
                 </p>
                 <h3>Harum, at sequi impedit suscipit delectus excepturi sint</h3>
@@ -106,7 +106,7 @@
 
             </div>
 
-            <a class="blog-article_read-more btn btn-info" href="/blog-detail.php">Xem thêm</a>
+            <a class="blog-article_read-more btn btn-info" href="blog-detail.php">Xem thêm</a>
 
         </div>
 
@@ -116,12 +116,12 @@
 
 
                 <div class="blog-article_meta-comments">
-                    <a href="/blog-detail.php#comments">0 comments</a>
+                    <a href="blog-detail.php#comments">0 comments</a>
                 </div>
 
 
                 <div class="product_name">
-                    <a href="/blog-detail.php">Tempora quae dolor cumque nemo libero</a>
+                    <a href="blog-detail.php">Tempora quae dolor cumque nemo libero</a>
                 </div>
 
                 <div class="blog-article_date">
@@ -150,14 +150,14 @@
             <div class="rte">
 
                 <p style="text-align: left;">
-                    <img style="margin-right: 15px;" src="/uploads/apple_tv_3-0_with_blu-ray_and_hd_tuner_1_compact.jpeg?v=1388409157" />
-                    <img style="margin-right: 15px;" src="/uploads/apple_time_capsule_-_1_tb_1_compact.jpeg?v=1388409150" />
+                    <img style="margin-right: 15px;" src="uploads/apple_tv_3-0_with_blu-ray_and_hd_tuner_1_compact.jpeg?v=1388409157" />
+                    <img style="margin-right: 15px;" src="uploads/apple_time_capsule_-_1_tb_1_compact.jpeg?v=1388409150" />
                 </p>
                 <p>Tempore, <strong>perspiciatis, modi, sed</strong>, qui fugiat vel ducimus dignissimos itaque accusantium voluptate consequuntur molestiae placeat similique consequatur numquam illum quisquam exercitationem nostrum et facilis fugit atque a expedita saepe.</p>
 
             </div>
 
-            <a class="blog-article_read-more btn btn-info" href="/blog-detail.php">Xem thêm</a>
+            <a class="blog-article_read-more btn btn-info" href="blog-detail.php">Xem thêm</a>
 
         </div>
         <ul id="pagination" class="pagination">

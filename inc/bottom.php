@@ -16,7 +16,7 @@
                 <h3>Địa chỉ</h3>
                 <ul class="clearfix">
                     <li><i class="fa fa-map-marker"></i>10/26 Hoàng Hoa Thám, P7, Q.Bình Thạnh, TP.Hồ Chí Minh</li>
-                    <li><i class="fa fa-envelope"></i><a href="mail:duytancomputer350@gmail.com">duytancomputer350@gmail.com</a></li>
+                    <li><i class="fa fa-envelope"></i><a href="mailto:duytancomputer350@gmail.com">duytancomputer350@gmail.com</a></li>
                     <li><i class="fa fa-phone"></i><a href="tel:08 62788887">08 62788887</a> / <a href="tel:0938 176 671">0938 176 671</a></li>
                 </ul>
             </div>
