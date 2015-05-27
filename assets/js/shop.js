@@ -18,7 +18,7 @@ jQuery(function($){
     });
 
     $(window).on('load scroll', function(){
-        if($(window).scrollTop() > 75) {
+        if($(window).scrollTop() > 90) {
             $('.top-fix').addClass('down');
         }
         else {
