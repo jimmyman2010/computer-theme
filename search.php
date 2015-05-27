@@ -14,7 +14,8 @@
 
 
     <link rel="canonical" href="" />
-    <link href="assets/images/favicon.ico?14633606393534071235" rel="shortcut icon" type="image/x-icon" />
+    <link rel="icon" type="image/x-icon" href="assets/images/favicon/favicon.ico?14633606393534071235" />
+    <link rel="apple-touch-icon-precomposed" href="assets/images/favicon/favicon.png?14633606393534071235" />
 
     <link href="assets/css/bootstrap.css?14633606393534071235" rel="stylesheet" type="text/css"  media="all"  />
     <link href="assets/css/assets.css?14633606393534071235" rel="stylesheet" type="text/css"  media="all"  />

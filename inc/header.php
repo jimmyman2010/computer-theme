@@ -1,10 +1,29 @@
+<div class="top-fix">
+    <div class="container">
+        <!-- LOGO -->
+        <div id="logo">
+            <a href="/computer">
+                <img src="assets/images/logo.png" alt="DUY TÂN COMPUTER"/>
+                <span class="shop_name trs_hover">DUY TÂN COMPUTER</span>
+            </a>
+        </div>
+
+        <div class="header_menu gradient3">
+            <!-- HEADER CART -->
+            <a class="header_cart" href="javascript:;">
+                <div class="header_menu_figure gradient3"></div>
+                <i class="fa fa-map-marker"></i><span>10/26 Hoàng Hoa Thám, P7, Q.Bình Thạnh, TP.Hồ Chí Minh</span>
+            </a>
+        </div>
+    </div>
+</div>
 <!-- HEADER -->
 <header id="header" class="container">
 
     <!-- LOGO -->
     <div id="logo">
-        <a href="/">
-            <img src="assets/images/logo.png"/>
+        <a href="/computer">
+            <img src="assets/images/logo.png" alt="DUY TÂN COMPUTER"/>
             <span class="shop_name trs_hover">DUY TÂN COMPUTER</span>
         </a>
     </div>

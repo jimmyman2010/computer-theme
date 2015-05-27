@@ -1,5 +1,28 @@
 /* ************************************* 1200px  ************************************* */
 
+.top-fix{ position: fixed; background: #444; width: 100%; z-index: 100;
+    -webkit-box-shadow: 0 0 5px rgba(249,249,249,.8);
+    -moz-box-shadow: 0 0 5px rgba(249,249,249,.8);
+    box-shadow: 0 0 5px rgba(249,249,249,.8);
+    top: -90px;
+    -webkit-transition: top 0.5s ease-in-out;
+    -moz-transition: top 0.5s ease-in-out;
+    -ms-transition: top 0.5s ease-in-out;
+    -o-transition: top 0.5s ease-in-out;
+    transition: top 0.5s ease-in-out;
+}
+.top-fix.down{
+    top: 0px;
+}
+.top-fix .header_menu{ position: static; border: none;  }
+.top-fix .header_menu .header_menu_figure{ display: none; }
+.top-fix #logo{padding: 0}
+.top-fix #logo a span, .top-fix #logo a:hover span{ color: #fff; font-size: 30px; margin-top: 22px}
+.top-fix .header_cart:hover{background: none; color: #8ec220}
+.top-fix img{height: 60px; margin: 5px 10px 5px 0}
+.top-fix .header_cart span{color: #8ec220 !important; display: inline-block; margin-top: 25px}
+.top-fix .header_cart i{color: #8ec220; margin-top: 20px}
+
 @media (min-width: 1200px) {
 
 

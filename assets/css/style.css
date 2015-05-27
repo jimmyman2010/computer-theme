@@ -431,7 +431,7 @@ background: linear-gradient(to bottom, #575656 0%,#3d3c3c 100%) !important; /* W
 #header {position: relative;}
 
 
-#logo {float: left;padding: 44px 0 0 0;}
+#logo {float: left;padding: 20px 0 0 0;}
 #logo a {}
 #logo a i {margin: 0 6px 0 0;font-size: 56px;color: #8ec220;line-height: 1em;}
 #logo a span {font: bold 49px 'Open Sans', sans-serif;color: #444;line-height: 0.95em;letter-spacing: -2px;

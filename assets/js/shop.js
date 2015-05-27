@@ -16,6 +16,16 @@ jQuery(function($){
             $(this).removeClass('fa-chevron-circle-down').addClass('fa-chevron-circle-up');
         }
     });
+
+    $(window).on('load scroll', function(){
+        if($(window).scrollTop() > 75) {
+            $('.top-fix').addClass('down');
+        }
+        else {
+            $('.top-fix').removeClass('down');
+        }
+    });
+
   $('html').removeClass('no-js'); 
   
   $('ul.styles > li').click(function(){
