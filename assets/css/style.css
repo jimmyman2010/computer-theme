@@ -810,7 +810,8 @@ display: none;
     color: #3f3e3e;
 }
 .widget__collections .sub-menu i{
-    margin: 7px 10px 0 0;font-size: 19px;color: #3f3e3e;
+    float: left;
+    margin: 1px 10px 0 0;font-size: 19px;color: #3f3e3e;
 }
 
 /* LINKS LIST */
