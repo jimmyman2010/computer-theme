@@ -1,9 +1,9 @@
 /* ************************************* 1200px  ************************************* */
 
-.top-fix{ position: fixed; background: #444; width: 100%; z-index: 100;
-    -webkit-box-shadow: 0 0 5px rgba(249,249,249,.8);
-    -moz-box-shadow: 0 0 5px rgba(249,249,249,.8);
-    box-shadow: 0 0 5px rgba(249,249,249,.8);
+.top-fix{ position: fixed; background: #444; width: 100%; z-index: 999;
+    -webkit-box-shadow: 0 0 5px rgba(49,49,49,.7);
+    -moz-box-shadow: 0 0 5px rgba(49,49,49,.7);
+    box-shadow: 0 0 5px rgba(49,49,49,.7);
     top: -90px;
     -webkit-transition: top 0.5s ease-in-out;
     -moz-transition: top 0.5s ease-in-out;
@@ -17,11 +17,11 @@
 .top-fix .header_menu{ position: static; border: none;  }
 .top-fix .header_menu .header_menu_figure{ display: none; }
 .top-fix #logo{padding: 0}
-.top-fix #logo a span, .top-fix #logo a:hover span{ color: #fff; font-size: 30px; margin-top: 22px}
+.top-fix #logo a span, .top-fix #logo a:hover span{ color: #fff; font-size: 30px; margin-top: 16px}
 .top-fix .header_cart:hover{background: none; color: #8ec220}
-.top-fix img{height: 60px; margin: 5px 10px 5px 0}
-.top-fix .header_cart span{color: #8ec220 !important; display: inline-block; margin-top: 25px}
-.top-fix .header_cart i{color: #8ec220; margin-top: 20px}
+.top-fix img{height: 50px; margin: 5px 10px 5px 0}
+.top-fix .header_cart span{color: #8ec220 !important; display: inline-block; margin-top: 18px}
+.top-fix .header_cart i{color: #8ec220; margin-top: 12px}
 
 @media (min-width: 1200px) {
 
@@ -87,9 +87,15 @@
 
 @media (max-width: 992px) {
 
-#logo {}
+    .top-fix img{height: 60px}
+    .top-fix .header_cart{position: absolute;
+        top: 22px;
+        margin-left: 103px;}
+    .top-fix #logo a span, .top-fix #logo a:hover span{margin-top: 9px}
+
+#logo {padding-top: 34px}
 #logo a i {font-size: 45px;}
-#logo a span {font-size: 39px; margin-top: 20px}
+#logo a span {font-size: 37px; margin-top: 30px}
 
 #navigation nav {width: 312px;}
     .custom_header1 h4{font-size: 32px}
@@ -126,6 +132,10 @@
 
 @media (max-width: 767px) {
 
+    .top-fix .header_cart{display: none;}
+    .top-fix img{height: 40px}
+    .top-fix #logo a span, .top-fix #logo a:hover span{margin-top: 13px}
+
 .container {padding:0 15px;}
 
 .column_left,
@@ -154,10 +164,10 @@
 .header_user {width: 40px;}
 
 
-#logo {width: 100%;clear: both;padding: 65px 0 0 0;text-align: center;}
+#logo {width: 100%;clear: both;padding: 40px 0 0 0;text-align: center;}
 
 
-.custom_header1 {width: 100%;clear: both;padding: 10px 0 0 0;text-align: center;}
+.custom_header1 {width: 100%;clear: both;padding: 5px 0 0 0;text-align: center;}
 
 
 #navigation {padding-left: 15px; padding-right: 15px}
@@ -250,6 +260,13 @@
 
 @media (max-width: 480px) {
 
+    #logo a span{margin-top: 10px}
+    .top-fix #logo a span, .top-fix #logo a:hover span{
+        font-size: 17px;
+        margin-top: 19px;
+        letter-spacing: 0.05em;
+    }
+
 .header_cart b {display: none;}
 
 #bottom .col-xs-6 {width: 100%;float: none;clear: both;}
@@ -311,5 +328,6 @@
         margin: 0 0 10px;
         max-width: inherit;
     }
+    span.city{display: none}
 
 }

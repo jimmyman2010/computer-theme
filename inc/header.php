@@ -32,7 +32,7 @@
         <!-- HEADER CART -->
         <a class="header_cart" href="javascript:;">
             <div class="header_menu_figure gradient3"></div>
-            <i class="fa fa-map-marker"></i><span>10/26 Hoàng Hoa Thám, P7, Q.Bình Thạnh, TP.Hồ Chí Minh</span>
+            <i class="fa fa-map-marker"></i><span>10/26 Hoàng Hoa Thám, P7, Q.Bình Thạnh<span class="city">, TP.Hồ Chí Minh</span></span>
         </a>
 
     </div>

@@ -431,13 +431,13 @@ background: linear-gradient(to bottom, #575656 0%,#3d3c3c 100%) !important; /* W
 #header {position: relative;}
 
 
-#logo {float: left;padding: 20px 0 0 0;}
+#logo {float: left;padding: 10px 0 0 0;}
 #logo a {}
 #logo a i {margin: 0 6px 0 0;font-size: 56px;color: #8ec220;line-height: 1em;}
 #logo a span {font: bold 49px 'Open Sans', sans-serif;color: #444;line-height: 0.95em;letter-spacing: -2px;
-    display: inline-block; margin-top: 16px;
+    display: inline-block; margin-top: 28px;
 }
-#logo a:hover span {/*color: #8ec220;*/ color: #3546F4}
+#logo a:hover span {color: #3546F4}
 
 
 .header_menu {border: 1px solid #6f9f12;border-width: 1px 1px 1px 0;position: absolute;right: 0;top: 0;z-index: 10;
@@ -494,7 +494,7 @@ position: absolute;left: -15px;top: -1px;z-index: 1;
 .custom_header1 h4 {display: inline-block;vertical-align: baseline;letter-spacing:-3px; font: normal 38px 'allerregular', sans-serif;color: #3f3e3e;}
 
 
-#navigation {padding: 22px 0 0 0;}
+#navigation {padding: 16px 0 0 0;}
 #navigation i.fa-chevron-circle-down {display: none;}
 
 .navigation_content {height: 57px;border: 1px solid #d3d3d3;
