@@ -19,7 +19,7 @@
 .top-fix #logo{padding: 0}
 .top-fix #logo a span, .top-fix #logo a:hover span{ color: #fff; font-size: 30px; margin-top: 16px}
 .top-fix .header_cart:hover{background: none; color: #8ec220}
-.top-fix img{height: 50px; margin: 5px 10px 5px 0}
+.top-fix #logo img{height: 50px; margin: 5px 10px 5px 0}
 .top-fix .header_cart span{color: #8ec220 !important; display: inline-block; margin-top: 18px}
 .top-fix .header_cart i{color: #8ec220; margin-top: 12px}
 
@@ -87,13 +87,15 @@
 
 @media (max-width: 992px) {
 
-    .top-fix img{height: 60px}
+    .top-fix #logo img{height: 60px}
     .top-fix .header_cart{position: absolute;
         top: 22px;
         margin-left: 103px;}
     .top-fix #logo a span, .top-fix #logo a:hover span{margin-top: 9px}
 
 #logo {padding-top: 34px}
+
+    #logo img{margin: -14px 0 0}
 #logo a i {font-size: 45px;}
 #logo a span {font-size: 37px; margin-top: 30px}
 
@@ -133,7 +135,7 @@
 @media (max-width: 767px) {
 
     .top-fix .header_cart{display: none;}
-    .top-fix img{height: 40px}
+    .top-fix #logo img{height: 40px}
     .top-fix #logo a span, .top-fix #logo a:hover span{margin-top: 13px}
 
 .container {padding:0 15px;}
@@ -165,7 +167,7 @@
 
 
 #logo {width: 100%;clear: both;padding: 40px 0 0 0;text-align: center;}
-
+    #logo img{margin: 8px 0 0}
 
 .custom_header1 {width: 100%;clear: both;padding: 5px 0 0 0;text-align: center;}
 

@@ -3,7 +3,7 @@
         <!-- LOGO -->
         <div id="logo">
             <a href="/computer">
-                <img src="assets/images/logo.png" alt="DUY TÂN COMPUTER"/>
+                <img src="assets/images/logo.png" alt="DUY TÂN COMPUTER" height="92"/>
                 <span class="shop_name trs_hover">DUY TÂN COMPUTER</span>
             </a>
         </div>
@@ -23,7 +23,7 @@
     <!-- LOGO -->
     <div id="logo">
         <a href="/computer">
-            <img src="assets/images/logo.png" alt="DUY TÂN COMPUTER"/>
+            <img src="assets/images/logo.png" alt="DUY TÂN COMPUTER" height="92"/>
             <span class="shop_name trs_hover">DUY TÂN COMPUTER</span>
         </a>
     </div>
